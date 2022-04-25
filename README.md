@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dpith
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Javascript and Python 
+- 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on projects that would deepen my knowledge and skills in programming
 - 📫 How to reach me email: pithdouglas@gmail.com
 
